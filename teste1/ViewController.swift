@@ -40,6 +40,8 @@ class ViewController: UIViewController {
         }
     }
     
+    // robson inseriu aqui
+    
     func fadeIn(completion: (()-> Void)?) {
         UIView.animate(withDuration: 1, animations: {
             self.abc.alpha = 0.0
