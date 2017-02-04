@@ -18,8 +18,8 @@ class ViewController: UIViewController {
         
 //        abc.frame = CGRect(x: 10, y: 50, width: 300, height: 100)
 //        abc.frame.origin.y = 0
-        abc.backgroundColor = .yellow
-        abc.titleLabel.text = " romilson "
+        abc.backgroundColor = .red
+        abc.titleLabel.text = " robson "
         
         self.view.addSubview(abc)
     }
