@@ -35,7 +35,7 @@ class ViewController: UIViewController {
             self.fadeIn(completion: {
                 print("Acabou fadeIn")
                 self.fadeOut(completion: { 
-                    print("Fade out acabou")
+                    print("Fade out acabou  ")
                 })
             })
         }
