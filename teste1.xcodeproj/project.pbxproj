@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		03E32EDE1E4662650092C82C /* Consts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 03E32EDD1E4662650092C82C /* Consts.swift */; };
 		DEC5CD091E464E8F00D8ACA9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DEC5CD081E464E8F00D8ACA9 /* AppDelegate.swift */; };
 		DEC5CD0B1E464E8F00D8ACA9 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DEC5CD0A1E464E8F00D8ACA9 /* ViewController.swift */; };
 		DEC5CD0E1E464E8F00D8ACA9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DEC5CD0C1E464E8F00D8ACA9 /* Main.storyboard */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		03E32EDD1E4662650092C82C /* Consts.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Consts.swift; sourceTree = "<group>"; };
 		DEC5CD051E464E8F00D8ACA9 /* teste1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = teste1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DEC5CD081E464E8F00D8ACA9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		DEC5CD0A1E464E8F00D8ACA9 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -62,6 +64,7 @@
 				DEC5CD0A1E464E8F00D8ACA9 /* ViewController.swift */,
 				DEC5CD0C1E464E8F00D8ACA9 /* Main.storyboard */,
 				DEC5CD1A1E464EBF00D8ACA9 /* abcView.swift */,
+				03E32EDD1E4662650092C82C /* Consts.swift */,
 				DEC5CD1C1E464EDB00D8ACA9 /* abcView.xib */,
 				DEC5CD0F1E464E8F00D8ACA9 /* Assets.xcassets */,
 				DEC5CD111E464E8F00D8ACA9 /* LaunchScreen.storyboard */,
@@ -145,6 +148,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				DEC5CD0B1E464E8F00D8ACA9 /* ViewController.swift in Sources */,
+				03E32EDE1E4662650092C82C /* Consts.swift in Sources */,
 				DEC5CD1B1E464EBF00D8ACA9 /* abcView.swift in Sources */,
 				DEC5CD091E464E8F00D8ACA9 /* AppDelegate.swift in Sources */,
 			);
@@ -308,6 +312,7 @@
 				DEC5CD191E464E8F00D8ACA9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
